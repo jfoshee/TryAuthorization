@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryAuthorization", "TryAuthorization\TryAuthorization.csproj", "{4DD72895-E654-4428-8C75-FE0DB21ACC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD72895-E654-4428-8C75-FE0DB21ACC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD72895-E654-4428-8C75-FE0DB21ACC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD72895-E654-4428-8C75-FE0DB21ACC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD72895-E654-4428-8C75-FE0DB21ACC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TryAuthorization\TryAuthorization.csproj
+	EndGlobalSection
+EndGlobal
